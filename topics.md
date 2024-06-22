@@ -1214,7 +1214,6 @@
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [jdbi/jdbi](https://github.com/jdbi/jdbi) - The Jdbi library provides convenient, idiomatic access to relational databases in Java and other JVM technologies such as Kotlin, Clojure or Scala.
 - [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
-- [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
@@ -1830,6 +1829,7 @@
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+- [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 - [qos-ch/slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
