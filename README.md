@@ -168,6 +168,7 @@
 
 ## Go 
 
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -470,6 +471,7 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 
 ## Mustache 
 
@@ -515,7 +517,6 @@
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [FocusedObjective/FocusedObjective.Resources](https://github.com/FocusedObjective/FocusedObjective.Resources) - Various
 - [ChristopherA/Participatory-Organizations-Overview-and-Taxonomy](https://github.com/ChristopherA/Participatory-Organizations-Overview-and-Taxonomy) - This document shares my opinionated explorations so far into discovering patterns in a participatory organization practices, starting mostly with a taxonomy and inventory of existing practices.
-- [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [holacracyone/Holacracy-Constitution](https://github.com/holacracyone/Holacracy-Constitution) - Platform for evolving and sharing the Holacracy Constitution through Open Source methodologies.
@@ -657,6 +658,7 @@
 
 ## Rust 
 
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
