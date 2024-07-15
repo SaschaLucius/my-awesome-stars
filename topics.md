@@ -1734,6 +1734,7 @@
 
 ## others 
 
+- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [ActionableAgile/jira-to-analytics](https://github.com/ActionableAgile/jira-to-analytics) - This code extracts data from Jira based on a yaml config file, and outputs a properly formatted CSV that can be read by the ActionableAgile Analytics tool.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
