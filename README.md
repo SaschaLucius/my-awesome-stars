@@ -647,6 +647,7 @@
 
 ## Roff 
 
+- [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
