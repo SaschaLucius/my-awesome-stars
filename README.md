@@ -652,6 +652,7 @@
 
 ## Ruby 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [softcover/softcover](https://github.com/softcover/softcover) - CLI for book generation, building, and publishing to softcover.io
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -765,6 +766,8 @@
 
 ## TypeScript 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Visualization and analysis of git commit statistics. Team Lead performance tool.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [ActionableAgile/jira-to-analytics](https://github.com/ActionableAgile/jira-to-analytics) - This code extracts data from Jira based on a yaml config file, and outputs a properly formatted CSV that can be read by the ActionableAgile Analytics tool.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
