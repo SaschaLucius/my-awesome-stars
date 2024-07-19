@@ -766,6 +766,7 @@
 
 ## TypeScript 
 
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [bakhirev/assayo](https://github.com/bakhirev/assayo) - Visualization and analysis of git commit statistics. Team Lead performance tool.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [ActionableAgile/jira-to-analytics](https://github.com/ActionableAgile/jira-to-analytics) - This code extracts data from Jira based on a yaml config file, and outputs a properly formatted CSV that can be read by the ActionableAgile Analytics tool.
