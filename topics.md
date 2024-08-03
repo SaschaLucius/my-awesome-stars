@@ -1751,6 +1751,11 @@
 
 ## others 
 
+- [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) - A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch (https://gitlab.com/a/90dns)
+- [suchmememanyskill/switch-90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter) - 
+- [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
+- [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
+- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
