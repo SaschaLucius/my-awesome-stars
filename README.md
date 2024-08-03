@@ -66,6 +66,7 @@
 
 ## C 
 
+- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -470,6 +471,8 @@
 
 ## Makefile 
 
+- [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) - A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch (https://gitlab.com/a/90dns)
+- [suchmememanyskill/switch-90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter) - 
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -495,6 +498,8 @@
 
 ## Others 
 
+- [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
+- [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Staffbase/gitops-github-action](https://github.com/Staffbase/gitops-github-action) - GitHub Action for our GitOps workflow
