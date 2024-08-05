@@ -1531,6 +1531,7 @@
 
 ## macos 
 
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -1708,6 +1709,7 @@
 
 ## objective-c 
 
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
