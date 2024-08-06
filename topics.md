@@ -1753,6 +1753,7 @@
 
 ## others 
 
+- [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) - A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch (https://gitlab.com/a/90dns)
 - [suchmememanyskill/switch-90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter) - 
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
