@@ -101,6 +101,7 @@
 
 ## C++ 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -173,7 +174,7 @@
 
 - [1fpsvideo/1fps](https://github.com/1fpsvideo/1fps) - 1fps.video client app
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -392,7 +393,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [bun-community/sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun) - 
 - [Playpilot/svelte-htm](https://github.com/Playpilot/svelte-htm) - 
@@ -604,6 +605,7 @@
 
 ## Python 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -783,6 +785,7 @@
 
 ## TypeScript 
 
+- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
