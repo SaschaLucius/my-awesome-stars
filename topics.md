@@ -66,7 +66,6 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [embedded](#embedded)
-- [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
@@ -836,10 +835,6 @@
 
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
-## ember 
-
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## emoji 
 
