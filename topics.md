@@ -1777,6 +1777,7 @@
 
 ## others 
 
+- [dualshock-tools/dualshock-tools.github.io](https://github.com/dualshock-tools/dualshock-tools.github.io) - 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [1fpsvideo/1fps](https://github.com/1fpsvideo/1fps) - 1fps.video client app
