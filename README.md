@@ -807,7 +807,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
@@ -872,7 +872,7 @@
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor) - This tool extracts the highlights and the annotations from OnyxBoox Reading Notes txt files, and converts them to linked zettelkasten literature and permanent notes
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source TypeScript library for generating SVG charts to display planets in astrology.
 - [brigix/lenormand](https://github.com/brigix/lenormand) - 
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API
