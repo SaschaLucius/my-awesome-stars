@@ -389,7 +389,6 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [felixmariotto/Edelweiss](https://github.com/felixmariotto/Edelweiss) - Platformer game
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [sveltejs/component-template](https://github.com/sveltejs/component-template) - A base for building shareable Svelte components
 - [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -750,6 +749,7 @@
 - [oslabs-beta/canopy](https://github.com/oslabs-beta/canopy) - A time travelling, component monitoring devtool/Chrome Extension for Svelte developers.
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte.
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
