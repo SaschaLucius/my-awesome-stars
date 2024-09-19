@@ -344,6 +344,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/merge-windows](https://github.com/sindresorhus/merge-windows) - Chrome extension - Merge windows into the active one
 - [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [dualshock-tools/dualshock-tools.github.io](https://github.com/dualshock-tools/dualshock-tools.github.io) - 
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
@@ -352,7 +353,6 @@
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playb
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
@@ -567,7 +567,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
-- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome infosec courses and training resources.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
@@ -790,6 +790,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -811,6 +812,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playb
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
