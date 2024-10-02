@@ -95,7 +95,6 @@
 
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) - A curated list of (not only) German piracy sites.
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [jongallant/LiquidSimulator](https://github.com/jongallant/LiquidSimulator) - Cellular Automaton 2D Liquid Simulator for Unity
