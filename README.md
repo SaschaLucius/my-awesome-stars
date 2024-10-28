@@ -427,6 +427,7 @@
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Cardinal90/multi-cursor-case-preserve](https://github.com/Cardinal90/multi-cursor-case-preserve) - Multiple cursor case preserve - Visual Studio Code extension
+- [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 - [gojko/bugmagnet](https://github.com/gojko/bugmagnet) - Bug Magnet Chrome/Firefox Extension
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
@@ -906,7 +907,6 @@
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [classvsoftware/spy-extension](https://github.com/classvsoftware/spy-extension) - A Chrome extension that will steal literally everything it can
-- [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 - [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen) - Typescript generation for pocketbase records
 - [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
