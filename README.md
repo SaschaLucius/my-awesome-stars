@@ -804,7 +804,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Visualization and analysis of git commit statistics. Team Lead performance tool.
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [ActionableAgile/jira-to-analytics](https://github.com/ActionableAgile/jira-to-analytics) - This code extracts data from Jira based on a yaml config file, and outputs a properly formatted CSV that can be read by the ActionableAgile Analytics tool.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
