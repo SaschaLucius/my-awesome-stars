@@ -293,7 +293,7 @@
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
 - [spring-guides/gs-spring-boot](https://github.com/spring-guides/gs-spring-boot) - Building an Application with Spring Boot :: Learn how to build an application with minimal configuration.
 - [vaadin/framework](https://github.com/vaadin/framework) - Vaadin 6, 7, 8   is a Java framework for modern Java web applications.
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
