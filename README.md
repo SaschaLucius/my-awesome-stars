@@ -93,6 +93,7 @@
 
 ## C# # 
 
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) - A curated list of (not only) German piracy sites.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -611,6 +612,7 @@
 
 ## Python 
 
+- [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -792,6 +794,7 @@
 
 ## TypeScript 
 
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -888,7 +891,7 @@
 - [dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool based on Excalidraw to create stop motion animations and slides.
 - [Mokshit06/sveltris](https://github.com/Mokshit06/sveltris) - Piece together any framework with Svelte (like Tetris)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
