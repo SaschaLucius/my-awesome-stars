@@ -67,6 +67,8 @@
 
 ## C 
 
+- [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -480,6 +482,8 @@
 
 ## Makefile 
 
+- [JustEnoughLinuxOS/distribution](https://github.com/JustEnoughLinuxOS/distribution) - Home of the JELOS Linux distribution.
+- [AmberELEC/AmberELEC](https://github.com/AmberELEC/AmberELEC) - Handheld firmware optimized for the Anbernic RG351P/M/V/MP, RG552 and other compatible devices.
 - [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) - A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch (https://gitlab.com/a/90dns)
 - [suchmememanyskill/switch-90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter) - 
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -728,6 +732,7 @@
 
 ## Shell 
 
+- [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
