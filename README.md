@@ -397,7 +397,7 @@
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [felixmariotto/Edelweiss](https://github.com/felixmariotto/Edelweiss) - Platformer game
 - [sveltejs/component-template](https://github.com/sveltejs/component-template) - A base for building shareable Svelte components
-- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
