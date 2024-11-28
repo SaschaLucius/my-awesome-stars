@@ -56,6 +56,7 @@
 
 ## Assembly 
 
+- [colonelsalt/Rocket-Edition](https://github.com/colonelsalt/Rocket-Edition) - ROM hack of Pokémon FireRed, in which you play as the bad guys.
 - [JustRegularLuna/RedPlusPlus](https://github.com/JustRegularLuna/RedPlusPlus) - A modernized version of Pokémon Red. None of the Gen 1 bugs, tons of new features, and expanded postgame. NOTE: The code here is still an UNFINISHED WIP, and is currently NOT PLAYABLE. Current stable 
 - [TheScarletSword/pokereddeluxe](https://github.com/TheScarletSword/pokereddeluxe) - A Pokemon Red and Blue hack - a "fork" of pokered and pokered-randomizer
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -353,6 +354,7 @@
 
 ## JavaScript 
 
+- [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
 - [sindresorhus/merge-windows](https://github.com/sindresorhus/merge-windows) - Chrome extension - Merge windows into the active one
 - [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [dualshock-tools/dualshock-tools.github.io](https://github.com/dualshock-tools/dualshock-tools.github.io) - 
@@ -517,6 +519,7 @@
 
 ## Others 
 
+- [mahoushoujorose/pkmnplusgreen](https://github.com/mahoushoujorose/pkmnplusgreen) - ROM edit of Pokemon Red + Blue where you play as the original gal trainer, Green!
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
