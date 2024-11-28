@@ -1844,6 +1844,13 @@
 
 ## others 
 
+- [mahoushoujorose/pkmnplusgreen](https://github.com/mahoushoujorose/pkmnplusgreen) - ROM edit of Pokemon Red + Blue where you play as the original gal trainer, Green!
+- [colonelsalt/Rocket-Edition](https://github.com/colonelsalt/Rocket-Edition) - ROM hack of Pokémon FireRed, in which you play as the bad guys.
+- [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
+- [JustRegularLuna/RedPlusPlus](https://github.com/JustRegularLuna/RedPlusPlus) - A modernized version of Pokémon Red. None of the Gen 1 bugs, tons of new features, and expanded postgame. NOTE: The code here is still an UNFINISHED WIP, and is currently NOT PLAYABLE. Current stable 
+- [TheScarletSword/pokereddeluxe](https://github.com/TheScarletSword/pokereddeluxe) - A Pokemon Red and Blue hack - a "fork" of pokered and pokered-randomizer
+- [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch) - Multi-Format File Patching App for macOS
+- [Alcaro/Flips](https://github.com/Alcaro/Flips) - Floating IPS is a patcher for IPS and BPS files.
 - [AmberELEC/AmberELEC](https://github.com/AmberELEC/AmberELEC) - Handheld firmware optimized for the Anbernic RG351P/M/V/MP, RG552 and other compatible devices.
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
