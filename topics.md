@@ -1844,6 +1844,12 @@
 
 ## others 
 
+- [RainbowMetalPigeon/ExtremeYellow](https://github.com/RainbowMetalPigeon/ExtremeYellow) - Kanto at its max (and beyond!)
+- [jojobear13/shinpokered](https://github.com/jojobear13/shinpokered) - Mostly-vanilla hack of Pokémon Red/Blue focused on bugfixes and trainer ai
+- [AmateurPanda92/pokemon-rby-dx](https://github.com/AmateurPanda92/pokemon-rby-dx) - 🎮 GBC-enhanced ROM hacks of Pokémon Red, Blue and Yellow
+- [Vortyne/pureRGB](https://github.com/Vortyne/pureRGB) - Pokemon PureRed / PureBlue / PureGreen: A purist's enhancement of Pokemon Red/Blue/Green based on the pokered decompilation.
+- [dannye/pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red/Blue overhauled with full GBC support. Made by FroggestSpirit, Drenn, and dannye. Also check out the crysaudio branch.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
 - [mahoushoujorose/pkmnplusgreen](https://github.com/mahoushoujorose/pkmnplusgreen) - ROM edit of Pokemon Red + Blue where you play as the original gal trainer, Green!
 - [colonelsalt/Rocket-Edition](https://github.com/colonelsalt/Rocket-Edition) - ROM hack of Pokémon FireRed, in which you play as the bad guys.
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
@@ -2333,6 +2339,7 @@
 
 ## reverse-engineering 
 
+- [pret/pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## ruby 
