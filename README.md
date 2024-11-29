@@ -56,6 +56,13 @@
 
 ## Assembly 
 
+- [RainbowMetalPigeon/ExtremeYellow](https://github.com/RainbowMetalPigeon/ExtremeYellow) - Kanto at its max (and beyond!)
+- [jojobear13/shinpokered](https://github.com/jojobear13/shinpokered) - Mostly-vanilla hack of Pokémon Red/Blue focused on bugfixes and trainer ai
+- [AmateurPanda92/pokemon-rby-dx](https://github.com/AmateurPanda92/pokemon-rby-dx) - 🎮 GBC-enhanced ROM hacks of Pokémon Red, Blue and Yellow
+- [Vortyne/pureRGB](https://github.com/Vortyne/pureRGB) - Pokemon PureRed / PureBlue / PureGreen: A purist's enhancement of Pokemon Red/Blue/Green based on the pokered decompilation.
+- [pret/pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue
+- [dannye/pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red/Blue overhauled with full GBC support. Made by FroggestSpirit, Drenn, and dannye. Also check out the crysaudio branch.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
 - [colonelsalt/Rocket-Edition](https://github.com/colonelsalt/Rocket-Edition) - ROM hack of Pokémon FireRed, in which you play as the bad guys.
 - [JustRegularLuna/RedPlusPlus](https://github.com/JustRegularLuna/RedPlusPlus) - A modernized version of Pokémon Red. None of the Gen 1 bugs, tons of new features, and expanded postgame. NOTE: The code here is still an UNFINISHED WIP, and is currently NOT PLAYABLE. Current stable 
 - [TheScarletSword/pokereddeluxe](https://github.com/TheScarletSword/pokereddeluxe) - A Pokemon Red and Blue hack - a "fork" of pokered and pokered-randomizer
