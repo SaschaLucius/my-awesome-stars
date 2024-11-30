@@ -1844,6 +1844,7 @@
 
 ## others 
 
+- [einstein95/pokered-de](https://github.com/einstein95/pokered-de) - 
 - [RainbowMetalPigeon/ExtremeYellow](https://github.com/RainbowMetalPigeon/ExtremeYellow) - Kanto at its max (and beyond!)
 - [jojobear13/shinpokered](https://github.com/jojobear13/shinpokered) - Mostly-vanilla hack of Pokémon Red/Blue focused on bugfixes and trainer ai
 - [AmateurPanda92/pokemon-rby-dx](https://github.com/AmateurPanda92/pokemon-rby-dx) - 🎮 GBC-enhanced ROM hacks of Pokémon Red, Blue and Yellow
