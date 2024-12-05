@@ -350,6 +350,7 @@
 - [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 - [qos-ch/slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 - [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
