@@ -537,6 +537,7 @@
 
 ## Others 
 
+- [DannyMoerkerke/whatpwacando.today](https://github.com/DannyMoerkerke/whatpwacando.today) - Repo to collect bugs for https://whatpwacando.today/
 - [mahoushoujorose/pkmnplusgreen](https://github.com/mahoushoujorose/pkmnplusgreen) - ROM edit of Pokemon Red + Blue where you play as the original gal trainer, Green!
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
