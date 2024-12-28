@@ -1860,6 +1860,8 @@
 
 ## others 
 
+- [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
+- [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf) - [Incubation] CSF using Svelte components.
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
 - [einstein95/pokered-de](https://github.com/einstein95/pokered-de) - 
 - [RainbowMetalPigeon/ExtremeYellow](https://github.com/RainbowMetalPigeon/ExtremeYellow) - Kanto at its max (and beyond!)
