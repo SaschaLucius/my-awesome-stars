@@ -833,6 +833,8 @@
 
 ## TypeScript 
 
+- [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
+- [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf) - [Incubation] CSF using Svelte components.
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
