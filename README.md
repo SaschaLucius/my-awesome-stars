@@ -118,6 +118,7 @@
 
 ## C++ 
 
+- [DDAAXX/XCI-Cutter-Qt](https://github.com/DDAAXX/XCI-Cutter-Qt) - XCI-Cutter Qt 5.9.4 project multiplatform.
 - [Alcaro/Flips](https://github.com/Alcaro/Flips) - Floating IPS is a patcher for IPS and BPS files.
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -816,6 +817,7 @@
 
 ## Swift 
 
+- [FerasArabiat/SplitNSP-Swift-GUI](https://github.com/FerasArabiat/SplitNSP-Swift-GUI) - MacOS Split Nintendo Switch NSP to FAT32 friendly sizes.
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
