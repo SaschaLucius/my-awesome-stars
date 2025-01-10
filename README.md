@@ -368,6 +368,7 @@
 
 ## JavaScript 
 
+- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
 - [sindresorhus/merge-windows](https://github.com/sindresorhus/merge-windows) - Chrome extension - Merge windows into the active one
@@ -838,6 +839,7 @@
 
 ## TypeScript 
 
+- [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
 - [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
 - [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf) - [Incubation] CSF using Svelte components.
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
