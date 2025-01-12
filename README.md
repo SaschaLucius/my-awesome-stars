@@ -941,7 +941,7 @@
 - [dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool based on Excalidraw to create stop motion animations and slides.
 - [Mokshit06/sveltris](https://github.com/Mokshit06/sveltris) - Piece together any framework with Svelte (like Tetris)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
