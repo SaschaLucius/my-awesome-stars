@@ -369,6 +369,7 @@
 
 ## JavaScript 
 
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
@@ -840,6 +841,7 @@
 
 ## TypeScript 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
 - [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
 - [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf) - [Incubation] CSF using Svelte components.
