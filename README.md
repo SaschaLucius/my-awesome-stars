@@ -841,6 +841,7 @@
 
 ## TypeScript 
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
 - [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
