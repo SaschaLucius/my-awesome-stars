@@ -546,7 +546,7 @@
 - [mahoushoujorose/pkmnplusgreen](https://github.com/mahoushoujorose/pkmnplusgreen) - ROM edit of Pokemon Red + Blue where you play as the original gal trainer, Green!
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
-- [gabrielmrinho/awesome-project](https://github.com/gabrielmrinho/awesome-project) - A curated list of awesome project development links
+- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Staffbase/gitops-github-action](https://github.com/Staffbase/gitops-github-action) - GitHub Action for our GitOps workflow
 - [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
