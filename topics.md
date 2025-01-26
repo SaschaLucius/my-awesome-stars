@@ -1892,11 +1892,11 @@
 - [AmateurPanda92/pokemon-rby-dx](https://github.com/AmateurPanda92/pokemon-rby-dx) - 🎮 GBC-enhanced ROM hacks of Pokémon Red, Blue and Yellow
 - [Vortyne/pureRGB](https://github.com/Vortyne/pureRGB) - Pokemon PureRed / PureBlue / PureGreen: A purist's enhancement of Pokemon Red/Blue/Green based on the pokered decompilation.
 - [dannye/pokered-gbc](https://github.com/dannye/pokered-gbc) - Pokémon Red/Blue overhauled with full GBC support. Made by FroggestSpirit, Drenn, and dannye. Also check out the crysaudio branch.
-- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3. It is considered complete, and is no longer being updated. WILL NOT COMPILE with modern RGBDS versions, but RGBDS 0.5.2 or possibly 0.6.1 should work.
 - [mahoushoujorose/pkmnplusgreen](https://github.com/mahoushoujorose/pkmnplusgreen) - ROM edit of Pokemon Red + Blue where you play as the original gal trainer, Green!
 - [colonelsalt/Rocket-Edition](https://github.com/colonelsalt/Rocket-Edition) - ROM hack of Pokémon FireRed, in which you play as the bad guys.
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
-- [JustRegularLuna/RedPlusPlus](https://github.com/JustRegularLuna/RedPlusPlus) - A modernized version of Pokémon Red. None of the Gen 1 bugs, tons of new features, and expanded postgame. NOTE: The code here is still an UNFINISHED WIP, and is currently NOT PLAYABLE. Current stable 
+- [JustRegularLuna/RedPlusPlus](https://github.com/JustRegularLuna/RedPlusPlus) - ON-HOLD, WIP. This will become an enhanced, upgraded remake of Gen 1. New features, more Pokémon, and an expanded post-game will be present. This is the successor to https://github.com/JustRegularLuna
 - [TheScarletSword/pokereddeluxe](https://github.com/TheScarletSword/pokereddeluxe) - A Pokemon Red and Blue hack - a "fork" of pokered and pokered-randomizer
 - [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch) - Multi-Format File Patching App for macOS
 - [Alcaro/Flips](https://github.com/Alcaro/Flips) - Floating IPS is a patcher for IPS and BPS files.
