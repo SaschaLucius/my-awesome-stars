@@ -373,6 +373,7 @@
 
 ## JavaScript 
 
+- [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [maciejsmolinski/learnings](https://github.com/maciejsmolinski/learnings) - 👝 A curated list of resources for learning product & software development
 - [tweag/montecarlo](https://github.com/tweag/montecarlo) - :racing_car: Generate montecarlo distributions in Google Sheets
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
@@ -664,6 +665,7 @@
 
 ## Python 
 
+- [vivier/phomemo-tools](https://github.com/vivier/phomemo-tools) - CUPS driver for Phomemo M02 Label Printer
 - [rnwolf/jira-metrics-extract](https://github.com/rnwolf/jira-metrics-extract) - CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation.  Kanban view of world as per Actionable Agile Metrics
 - [ncusi/PatchScope](https://github.com/ncusi/PatchScope) - Annotates files and lines of diffs (patches) with their purpose and type, and performs statistical analysis on annotation data
 - [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
