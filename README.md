@@ -944,7 +944,6 @@
 - [pachoclo/vite-threejs-ts-template](https://github.com/pachoclo/vite-threejs-ts-template) - A Vite-based starter project for Three.js with some of the essentials
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [ohmree/sveltesse-webext](https://github.com/ohmree/sveltesse-webext) - ⚡️ WebExtension Vite Starter Template - Svelte edition
-- [shaoml/sveltekit-crxjs-boilerplate](https://github.com/shaoml/sveltekit-crxjs-boilerplate) - A boilerplate of chrome extension built on sveltekit prerender pages.
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Web Extensions
