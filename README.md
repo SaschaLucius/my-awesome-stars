@@ -195,6 +195,7 @@
 
 ## Go 
 
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -268,6 +269,7 @@
 
 ## HTML 
 
+- [beynar/syncrostate](https://github.com/beynar/syncrostate) - 
 - [SayanBarcha/Simple-Waves](https://github.com/SayanBarcha/Simple-Waves) - simple waves effect using HTML and CSS
 - [pwhite2/super-tab-sorter](https://github.com/pwhite2/super-tab-sorter) - Simple Tab Sorter++
 - [pwhite2/simple-tab-sorter](https://github.com/pwhite2/simple-tab-sorter) - Simple tab sorter that allows user-defined tab group order
@@ -553,6 +555,7 @@
 
 ## Others 
 
+- [aalhour/awesome-management](https://github.com/aalhour/awesome-management) - Awesome List of Engineering Team Management Knowledge
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [tarlepp/links-of-the-week](https://github.com/tarlepp/links-of-the-week) - 
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
