@@ -123,7 +123,7 @@
 - [DDAAXX/XCI-Cutter-Qt](https://github.com/DDAAXX/XCI-Cutter-Qt) - XCI-Cutter Qt 5.9.4 project multiplatform.
 - [Alcaro/Flips](https://github.com/Alcaro/Flips) - Floating IPS is a patcher for IPS and BPS files.
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -718,7 +718,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
-- [dekuNukem/duckyPad-profile-autoswitcher](https://github.com/dekuNukem/duckyPad-profile-autoswitcher) - 
+- [duckyPad/duckyPad-Profile-Autoswitcher](https://github.com/duckyPad/duckyPad-Profile-Autoswitcher) - 
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
