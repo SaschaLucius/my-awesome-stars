@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [xingtanzjr/Tree-Style-Tab](https://github.com/xingtanzjr/Tree-Style-Tab) - a test project
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [maciejsmolinski/learnings](https://github.com/maciejsmolinski/learnings) - 👝 A curated list of resources for learning product & software development
 - [tweag/montecarlo](https://github.com/tweag/montecarlo) - :racing_car: Generate montecarlo distributions in Google Sheets
@@ -872,6 +873,7 @@
 
 ## TypeScript 
 
+- [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
