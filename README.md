@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [xingtanzjr/Tree-Style-Tab](https://github.com/xingtanzjr/Tree-Style-Tab) - a test project
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [maciejsmolinski/learnings](https://github.com/maciejsmolinski/learnings) - 👝 A curated list of resources for learning product & software development
