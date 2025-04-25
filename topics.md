@@ -1934,6 +1934,8 @@
 
 ## others 
 
+- [LetPeopleWork/Lighthouse](https://github.com/LetPeopleWork/Lighthouse) - 
+- [LetPeopleWork/FlowPulse](https://github.com/LetPeopleWork/FlowPulse) - Captures the heartbeat of your flow metrics and predicts future trends.
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [serversideup/webext-bridge](https://github.com/serversideup/webext-bridge) - 💬 Messaging in Web Extensions made easy. Batteries included.
 - [xingtanzjr/Tree-Style-Tab](https://github.com/xingtanzjr/Tree-Style-Tab) - a test project
