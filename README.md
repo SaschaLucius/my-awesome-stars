@@ -109,6 +109,7 @@
 
 ## C# # 
 
+- [LetPeopleWork/Lighthouse](https://github.com/LetPeopleWork/Lighthouse) - 
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) - A curated list of (not only) German piracy sites.
@@ -673,6 +674,7 @@
 
 ## Python 
 
+- [LetPeopleWork/FlowPulse](https://github.com/LetPeopleWork/FlowPulse) - Captures the heartbeat of your flow metrics and predicts future trends.
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
 - [vivier/phomemo-tools](https://github.com/vivier/phomemo-tools) - CUPS driver for Phomemo M02 Label Printer
 - [rnwolf/jira-metrics-extract](https://github.com/rnwolf/jira-metrics-extract) - CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation.  Kanban view of world as per Actionable Agile Metrics
