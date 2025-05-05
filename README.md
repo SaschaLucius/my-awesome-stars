@@ -154,6 +154,7 @@
 - [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 - [sveltinio/components-library](https://github.com/sveltinio/components-library) - Monorepo for Svelte components packages
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
+- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [hacks-guide/Guide_Switch-OLD](https://github.com/hacks-guide/Guide_Switch-OLD) - (OUTDATED) A complete guide to Switch homebrew and homebrew development.
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [andrewshen/simplify-boox](https://github.com/andrewshen/simplify-boox) - A chrome extension to make Boox web services simpler and easier to use
@@ -831,7 +832,6 @@
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [ak4zh/sveltekit-saas-starter](https://github.com/ak4zh/sveltekit-saas-starter) - 
 - [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
-- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [kenshiro41/svelte-content-scripts](https://github.com/kenshiro41/svelte-content-scripts) - 
 - [oslabs-beta/canopy](https://github.com/oslabs-beta/canopy) - A time travelling, component monitoring devtool/Chrome Extension for Svelte developers.
