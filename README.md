@@ -273,7 +273,7 @@
 ## HTML 
 
 - [beynar/syncrostate](https://github.com/beynar/syncrostate) - 
-- [SayanBarcha/Simple-Waves](https://github.com/SayanBarcha/Simple-Waves) - simple waves effect using HTML and CSS
+- [shehdadaly124/Simple-Waves](https://github.com/shehdadaly124/Simple-Waves) - simple waves effect using HTML and CSS
 - [pwhite2/super-tab-sorter](https://github.com/pwhite2/super-tab-sorter) - Simple Tab Sorter++
 - [pwhite2/simple-tab-sorter](https://github.com/pwhite2/simple-tab-sorter) - Simple tab sorter that allows user-defined tab group order
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
@@ -675,6 +675,7 @@
 
 ## Python 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [LetPeopleWork/FlowPulse](https://github.com/LetPeopleWork/FlowPulse) - Captures the heartbeat of your flow metrics and predicts future trends.
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
 - [vivier/phomemo-tools](https://github.com/vivier/phomemo-tools) - CUPS driver for Phomemo M02 Label Printer
