@@ -204,6 +204,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -214,6 +215,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
@@ -1945,6 +1947,7 @@
 
 ## others 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
 - [LetPeopleWork/Lighthouse](https://github.com/LetPeopleWork/Lighthouse) - 
@@ -1965,7 +1968,7 @@
 - [ncusi/PatchScope](https://github.com/ncusi/PatchScope) - Annotates files and lines of diffs (patches) with their purpose and type, and performs statistical analysis on annotation data
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [SayanBarcha/Simple-Waves](https://github.com/SayanBarcha/Simple-Waves) - simple waves effect using HTML and CSS
+- [shehdadaly124/Simple-Waves](https://github.com/shehdadaly124/Simple-Waves) - simple waves effect using HTML and CSS
 - [lclevy/firepwd](https://github.com/lclevy/firepwd) - firepwd.py, an open source tool to decrypt Mozilla protected passwords
 - [DDAAXX/XCI-Cutter-Qt](https://github.com/DDAAXX/XCI-Cutter-Qt) - XCI-Cutter Qt 5.9.4 project multiplatform.
 - [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
@@ -2082,7 +2085,6 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
-- [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 - [felixmariotto/Edelweiss](https://github.com/felixmariotto/Edelweiss) - Platformer game
 - [AnalogMan151/splitNSP](https://github.com/AnalogMan151/splitNSP) - 
@@ -2728,6 +2730,11 @@
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
+## tailwind 
+
+- [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## tailwindcss 
 
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -2852,6 +2859,20 @@
 
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+
+## ui 
+
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [jim-fx/plantarium](https://github.com/jim-fx/plantarium) - Create plants in your browser using nodes
+- [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 
 ## ui-design 
 
