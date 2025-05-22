@@ -169,6 +169,7 @@
 
 ## Clojure 
 
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
@@ -380,6 +381,7 @@
 
 ## JavaScript 
 
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [xingtanzjr/Tree-Style-Tab](https://github.com/xingtanzjr/Tree-Style-Tab) - a test project
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
@@ -677,6 +679,7 @@
 
 ## Python 
 
+- [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [LetPeopleWork/FlowPulse](https://github.com/LetPeopleWork/FlowPulse) - Captures the heartbeat of your flow metrics and predicts future trends.
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
@@ -862,6 +865,7 @@
 
 ## Swift 
 
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [FerasArabiat/SplitNSP-Swift-GUI](https://github.com/FerasArabiat/SplitNSP-Swift-GUI) - MacOS Split Nintendo Switch NSP to FAT32 friendly sizes.
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
@@ -880,6 +884,8 @@
 
 ## TypeScript 
 
+- [jsventures/instldraw](https://github.com/jsventures/instldraw) - Team-oriented tldraw built w/ InstantDB
+- [wobsoriano/svelte-instantdb](https://github.com/wobsoriano/svelte-instantdb) - Unofficial Instant SDK for Svelte
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [josdejong/svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) - A web-based tool to view, edit, format, repair, query, transform, and validate JSON
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
