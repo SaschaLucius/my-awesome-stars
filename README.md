@@ -435,6 +435,7 @@
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [felixmariotto/Edelweiss](https://github.com/felixmariotto/Edelweiss) - Platformer game
@@ -590,7 +591,6 @@
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [PayDevs/awesome-oss-monetization](https://github.com/PayDevs/awesome-oss-monetization) - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
-- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [dezem/SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
 - [Rich-Harris/svelte-gl](https://github.com/Rich-Harris/svelte-gl) - Just an idea. For now.
 - [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
