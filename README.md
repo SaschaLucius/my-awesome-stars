@@ -565,6 +565,7 @@
 
 ## Others 
 
+- [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert
 - [aalhour/awesome-management](https://github.com/aalhour/awesome-management) - Awesome List of Engineering Team Management Knowledge
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [tarlepp/links-of-the-week](https://github.com/tarlepp/links-of-the-week) - 
