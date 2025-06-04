@@ -1980,7 +1980,7 @@
 - [ncusi/PatchScope](https://github.com/ncusi/PatchScope) - Annotates files and lines of diffs (patches) with their purpose and type, and performs statistical analysis on annotation data
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [shehdadaly124/Simple-Waves](https://github.com/shehdadaly124/Simple-Waves) - simple waves effect using HTML and CSS
+- [muhammadrahim124/Simple-Waves](https://github.com/muhammadrahim124/Simple-Waves) - simple waves effect using HTML and CSS
 - [lclevy/firepwd](https://github.com/lclevy/firepwd) - firepwd.py, an open source tool to decrypt Mozilla protected passwords
 - [DDAAXX/XCI-Cutter-Qt](https://github.com/DDAAXX/XCI-Cutter-Qt) - XCI-Cutter Qt 5.9.4 project multiplatform.
 - [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
