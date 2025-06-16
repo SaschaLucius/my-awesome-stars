@@ -887,6 +887,7 @@
 
 ## TypeScript 
 
+- [vite-pwa/sveltekit](https://github.com/vite-pwa/sveltekit) - Zero-config PWA Plugin for SvelteKit
 - [ykhli/AI-tamago](https://github.com/ykhli/AI-tamago) - A local-ready LLM-generated and LLM-driven virtual pet with thoughts and feelings. 100% Javascript.
 - [jsventures/instldraw](https://github.com/jsventures/instldraw) - Team-oriented tldraw built w/ InstantDB
 - [wobsoriano/svelte-instantdb](https://github.com/wobsoriano/svelte-instantdb) - Unofficial Instant SDK for Svelte
