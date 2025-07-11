@@ -1367,6 +1367,7 @@
 
 ## homebrew 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [hacks-guide/Guide_Switch-OLD](https://github.com/hacks-guide/Guide_Switch-OLD) - (OUTDATED) A complete guide to Switch homebrew and homebrew development.
 - [noahc3/Homebrew-Guide](https://github.com/noahc3/Homebrew-Guide) - Guide for getting CFW setup on your Nintendo Switch (And Wii U)
@@ -1733,6 +1734,7 @@
 
 ## macos 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [FerasArabiat/SplitNSP-Swift-GUI](https://github.com/FerasArabiat/SplitNSP-Swift-GUI) - MacOS Split Nintendo Switch NSP to FAT32 friendly sizes.
@@ -2788,6 +2790,7 @@
 
 ## swift 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [FerasArabiat/SplitNSP-Swift-GUI](https://github.com/FerasArabiat/SplitNSP-Swift-GUI) - MacOS Split Nintendo Switch NSP to FAT32 friendly sizes.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -2798,6 +2801,7 @@
 
 ## swiftui 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
