@@ -111,6 +111,7 @@
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
+- [image-processing](#image-processing)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -1414,6 +1415,10 @@
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+## image-processing 
+
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 
 ## instagram 
 
