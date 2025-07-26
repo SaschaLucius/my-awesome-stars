@@ -153,7 +153,6 @@
 
 ## CSS 
 
-- [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 - [sveltinio/components-library](https://github.com/sveltinio/components-library) - Monorepo for Svelte components packages
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [hacks-guide/Guide_Switch-OLD](https://github.com/hacks-guide/Guide_Switch-OLD) - (OUTDATED) A complete guide to Switch homebrew and homebrew development.
@@ -285,6 +284,7 @@
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [markuadoc/markua-spec](https://github.com/markuadoc/markua-spec) - Markua spec, with in-progress reference implementations in C and JavaScript
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+- [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 - [BinBashBanana/deploy-buttons](https://github.com/BinBashBanana/deploy-buttons) - GitHub deploy buttons
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [S3-working-group/s3-illustrations](https://github.com/S3-working-group/s3-illustrations) - Collection of Illustrations for Sociocracy 3.0
