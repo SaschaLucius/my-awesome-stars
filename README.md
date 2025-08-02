@@ -276,7 +276,6 @@
 
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks) - 📍 A map of my life, where each week I've been alive is a little box.
-- [ScrumGuides/ScrumGuide-ExpansionPack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack) - The Scrum Guide Expansion Pack clarifies Scrum’s core principles, helping teams navigate rapid change, AI integration, and product-focused outcomes.
 - [beynar/syncrostate](https://github.com/beynar/syncrostate) - 
 - [muhammadrahim124/Simple-Waves](https://github.com/muhammadrahim124/Simple-Waves) - simple waves effect using HTML and CSS
 - [pwhite2/super-tab-sorter](https://github.com/pwhite2/super-tab-sorter) - Simple Tab Sorter++
@@ -685,6 +684,7 @@
 
 ## PowerShell 
 
+- [ScrumGuides/ScrumGuide-ExpansionPack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack) - The Scrum Guide Expansion Pack clarifies Scrum’s core principles, helping teams navigate rapid change, AI integration, and product-focused outcomes.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Python 
