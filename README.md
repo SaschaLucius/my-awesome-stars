@@ -108,6 +108,7 @@
 
 ## C# # 
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) - A curated list of (not only) German piracy sites.
@@ -228,7 +229,7 @@
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [inkmi/eris](https://github.com/inkmi/eris) - Tool to build Markdown files based on a collection of Markdown files
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -905,6 +906,7 @@
 
 ## TypeScript 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation as an MCP or in llms.txt format
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
