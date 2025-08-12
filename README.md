@@ -933,7 +933,7 @@
 - [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
 - [HoudiniGraphql/houdini](https://github.com/HoudiniGraphql/houdini) - The disappearing GraphQL framework
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [joshnuss/svelte-persisted-store](https://github.com/joshnuss/svelte-persisted-store) - A Svelte store that persists to localStorage
 - [eliasm307/storybook-addon-deep-controls](https://github.com/eliasm307/storybook-addon-deep-controls) - A Storybook addon that extends @storybook/addon-controls and provides an alternative to interacting with object arguments
 - [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf) - [Incubation] CSF using Svelte components.
