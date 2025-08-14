@@ -906,7 +906,7 @@
 ## TypeScript 
 
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-- [khromov/llmctx](https://github.com/khromov/llmctx) - Svelte developer documentation as an MCP or in llms.txt format
+- [khromov/svelte-llm-mcp](https://github.com/khromov/svelte-llm-mcp) - Svelte developer documentation as an MCP or in llms.txt format
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [bradcush/mark-tab-manager](https://github.com/bradcush/mark-tab-manager) - Mark is a minimalist tab manager in the form of a browser extension that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically.
@@ -929,7 +929,7 @@
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
 - [HoudiniGraphql/houdini](https://github.com/HoudiniGraphql/houdini) - The disappearing GraphQL framework
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
