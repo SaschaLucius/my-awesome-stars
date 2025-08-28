@@ -277,7 +277,6 @@
 
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks) - 📍 A map of my life, where each week I've been alive is a little box.
-- [beynar/syncrostate](https://github.com/beynar/syncrostate) - 
 - [muhammadrahim124/Simple-Waves](https://github.com/muhammadrahim124/Simple-Waves) - simple waves effect using HTML and CSS
 - [pwhite2/super-tab-sorter](https://github.com/pwhite2/super-tab-sorter) - Simple Tab Sorter++
 - [pwhite2/simple-tab-sorter](https://github.com/pwhite2/simple-tab-sorter) - Simple tab sorter that allows user-defined tab group order
@@ -385,6 +384,7 @@
 
 ## JavaScript 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
 - [deepmtch/chrome-tab-organizer](https://github.com/deepmtch/chrome-tab-organizer) - 
@@ -864,7 +864,7 @@
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte. [NOT MAINTAINED]
+- [valqelyan/svelte-grid](https://github.com/valqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte. [NOT MAINTAINED]
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
@@ -909,6 +909,7 @@
 
 ## TypeScript 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [khromov/svelte-llm-mcp](https://github.com/khromov/svelte-llm-mcp) - Svelte developer documentation as an MCP or in llms.txt format
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
@@ -931,6 +932,7 @@
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [serversideup/webext-bridge](https://github.com/serversideup/webext-bridge) - 💬 Messaging in Web Extensions made easy. Batteries included.
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
+- [beynar/syncrostate](https://github.com/beynar/syncrostate) - 
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
