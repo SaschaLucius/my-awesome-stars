@@ -386,6 +386,7 @@
 
 ## JavaScript 
 
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
@@ -629,7 +630,7 @@
 - [toperkin/staticFormEmails](https://github.com/toperkin/staticFormEmails) - how to put forms which send emails onto static sites
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
-- [vpapadopou/liberating-structures-cards](https://github.com/vpapadopou/liberating-structures-cards) - A print-at-home card deck for Liberating Structures
+- [vpapadopou/liberating-structures-cards](https://github.com/vpapadopou/liberating-structures-cards) - A print-at-home card deck for Liberating Structures. Web version: https://vpapadopou.github.io/ls-cards-online/
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [mgreiler/all-about-code-review](https://github.com/mgreiler/all-about-code-review) - This is a curated list of resources about code reviews: articles, tools, trainings...
