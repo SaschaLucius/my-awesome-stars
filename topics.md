@@ -626,6 +626,7 @@
 
 ## cli 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
@@ -887,6 +888,7 @@
 
 ## docker 
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -1016,6 +1018,7 @@
 
 ## firebase 
 
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -1137,6 +1140,7 @@
 
 ## git 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
@@ -1233,6 +1237,7 @@
 
 ## golang 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -1310,6 +1315,8 @@
 
 ## hacktoberfest 
 
+- [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -1480,6 +1487,7 @@
 
 ## ipfs 
 
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 
 ## java 
@@ -1528,6 +1536,7 @@
 
 ## javascript 
 
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
@@ -1654,6 +1663,7 @@
 
 ## kubernetes 
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -1999,6 +2009,7 @@
 
 ## open-source 
 
+- [a11yphant/a11yphant](https://github.com/a11yphant/a11yphant) - a11yphant - The easy way to learn web accessibility
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
@@ -2050,6 +2061,7 @@
 
 ## others 
 
+- [IdreesInc/Animal-Crossing-Letter-Generator](https://github.com/IdreesInc/Animal-Crossing-Letter-Generator) - A pixel-perfect editor for creating the letters from Animal Crossing New Horizons!
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -2308,7 +2320,7 @@
 - [toperkin/staticFormEmails](https://github.com/toperkin/staticFormEmails) - how to put forms which send emails onto static sites
 - [SharonBrizinov/slack-anti-delete](https://github.com/SharonBrizinov/slack-anti-delete) - I patched my Slack client to keep messages that others delete
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
-- [vpapadopou/liberating-structures-cards](https://github.com/vpapadopou/liberating-structures-cards) - A print-at-home card deck for Liberating Structures
+- [vpapadopou/liberating-structures-cards](https://github.com/vpapadopou/liberating-structures-cards) - A print-at-home card deck for Liberating Structures. Web version: https://vpapadopou.github.io/ls-cards-online/
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [qiuosier/SleepTight](https://github.com/qiuosier/SleepTight) - A background process for macOS to run programs at sleep and wake up, modified from SleepWatcher.
 - [Robhub/handpaner](https://github.com/Robhub/handpaner) - Handpaner is a tool for Hang/Handpan players and makers to help them finding scales and chords with musical harmony theory.
@@ -2360,6 +2372,7 @@
 
 ## p2p 
 
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -2726,6 +2739,7 @@
 
 ## serverless 
 
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
