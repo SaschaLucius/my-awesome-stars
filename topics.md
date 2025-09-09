@@ -26,6 +26,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bioinformatics](#bioinformatics)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -547,6 +548,11 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 
 ## bioinformatics 
 
@@ -1408,7 +1414,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
+- [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [jdbi/jdbi](https://github.com/jdbi/jdbi) - The Jdbi library provides convenient, idiomatic access to relational databases in Java and other JVM technologies such as Kotlin, Clojure or Scala.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -1532,7 +1538,7 @@
 - [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
-- [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
+- [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [jdbi/jdbi](https://github.com/jdbi/jdbi) - The Jdbi library provides convenient, idiomatic access to relational databases in Java and other JVM technologies such as Kotlin, Clojure or Scala.
 - [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x (In Maintenance Mode, End-of-Life on 12/31/2025). The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
@@ -2965,7 +2971,7 @@
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [MikeSchulze/gdUnit3](https://github.com/MikeSchulze/gdUnit3) - A Godot Unit Test Framework. Support for gdScript and c# unit testing
-- [assertj/assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
+- [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 
 ## text-to-speech 
