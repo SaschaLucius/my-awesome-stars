@@ -1355,6 +1355,7 @@
 
 ## hacktoberfest 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert
@@ -1556,7 +1557,7 @@
 - [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
-- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
