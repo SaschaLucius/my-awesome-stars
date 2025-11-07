@@ -496,7 +496,7 @@
 - [gojko/bugmagnet](https://github.com/gojko/bugmagnet) - Bug Magnet Chrome/Firefox Extension
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
-- [google/blockly-samples](https://github.com/google/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
+- [google-admin/blockly-samples](https://github.com/google-admin/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [fengtan/gmail-to-rss](https://github.com/fengtan/gmail-to-rss) - Turn a Gmail inbox into an RSS feed
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
@@ -1089,7 +1089,7 @@
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+- [google-admin/blockly](https://github.com/google-admin/blockly) - The web-based visual programming editor.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
