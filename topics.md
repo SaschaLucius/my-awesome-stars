@@ -1716,6 +1716,7 @@
 - [fabiomsr/from-java-to-kotlin](https://github.com/fabiomsr/from-java-to-kotlin) - From Java to Kotlin Cheat Sheet
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
+- [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [jdbi/jdbi](https://github.com/jdbi/jdbi) - The Jdbi library provides convenient, idiomatic access to relational databases in Java and other JVM technologies such as Kotlin, Clojure or Scala.
 
 ## kubernetes 
