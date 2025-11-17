@@ -2143,7 +2143,7 @@
 - [khromov/svelte-llm-mcp](https://github.com/khromov/svelte-llm-mcp) - Svelte developer documentation as an MCP and in llms.txt format
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
 - [bradcush/mark-tab-manager](https://github.com/bradcush/mark-tab-manager) - Mark is a minimalist tab manager in the form of a browser extension that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically.
-- [deepmtch/chrome-tab-organizer](https://github.com/deepmtch/chrome-tab-organizer) - 
+- [deepmtch/chrome-tab-organizer-old](https://github.com/deepmtch/chrome-tab-organizer-old) - 
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks) - 📍 A map of my life, where each week I've been alive is a little box.
 - [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage) - A tool for burning visible pictures on a compact disc surfase
