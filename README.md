@@ -396,7 +396,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
-- [deepmtch/chrome-tab-organizer](https://github.com/deepmtch/chrome-tab-organizer) - 
+- [deepmtch/chrome-tab-organizer-old](https://github.com/deepmtch/chrome-tab-organizer-old) - 
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
@@ -707,6 +707,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
@@ -927,7 +928,6 @@
 
 - [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
 - [boryssey/picture-in-picture-anything](https://github.com/boryssey/picture-in-picture-anything) - 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [a11yphant/a11yphant](https://github.com/a11yphant/a11yphant) - a11yphant - The easy way to learn web accessibility
 - [IdreesInc/Animal-Crossing-Letter-Generator](https://github.com/IdreesInc/Animal-Crossing-Letter-Generator) - A pixel-perfect editor for creating the letters from Animal Crossing New Horizons!
