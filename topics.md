@@ -305,7 +305,7 @@
 - [SaschaLucius/svelte-umami](https://github.com/SaschaLucius/svelte-umami) - Simple Umami Analytics integration into Svelte and SvelteKit
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -1525,7 +1525,7 @@
 ## ios 
 
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -1855,7 +1855,7 @@
 
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [FerasArabiat/SplitNSP-Swift-GUI](https://github.com/FerasArabiat/SplitNSP-Swift-GUI) - MacOS Split Nintendo Switch NSP to FAT32 friendly sizes.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -2128,6 +2128,7 @@
 
 ## others 
 
+- [serhack/pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [boryssey/picture-in-picture-anything](https://github.com/boryssey/picture-in-picture-anything) - 
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
@@ -2903,7 +2904,7 @@
 
 - [tweag/montecarlo](https://github.com/tweag/montecarlo) - :racing_car: Generate montecarlo distributions in Google Sheets
 - [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 ## storybook 
 
