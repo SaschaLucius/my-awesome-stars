@@ -282,6 +282,7 @@
 
 ## HTML 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks) - 📍 A map of my life, where each week I've been alive is a little box.
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
@@ -750,7 +751,7 @@
 - [Team-Neptune/DeepSea](https://github.com/Team-Neptune/DeepSea) - The new All-in-One CFW package for the Nintendo Switch.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) - PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed. NOTE: This repo is synced automatically from the main PostHog repo. Please raise any issues and PRs there.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [fergusmacd/github-actions-usage](https://github.com/fergusmacd/github-actions-usage) - Project that checks the billable minutes of GitHub actions by repo and workflow, then outputs to the console.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -804,7 +805,6 @@
 ## Rust 
 
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
