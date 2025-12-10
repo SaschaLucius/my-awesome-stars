@@ -1615,7 +1615,7 @@
 - [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
-- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders, for records too. Sweep boilerplate code under the rug!
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
@@ -2187,7 +2187,7 @@
 - [darcyegb/ClaudeCodeAgents](https://github.com/darcyegb/ClaudeCodeAgents) - A set of useful QA agents for Claude Code.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [IdreesInc/Animal-Crossing-Letter-Generator](https://github.com/IdreesInc/Animal-Crossing-Letter-Generator) - A pixel-perfect editor for creating the letters from Animal Crossing New Horizons!
-- [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
@@ -2462,7 +2462,7 @@
 - [vendasta/setup-new-computer-script](https://github.com/vendasta/setup-new-computer-script) - This script will help with the quick setup and installation of tools and applications for new developers at Vendasta.
 - [cloudflare/workerskv.gui](https://github.com/cloudflare/workerskv.gui) - (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
-- [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui - for desktop & your browser
+- [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui - desktop app, browser extension, docker, self hosted
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [samknight/slack_applescript](https://github.com/samknight/slack_applescript) - AppleScript bundle for Slack methods
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
