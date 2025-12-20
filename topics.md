@@ -151,6 +151,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1968,6 +1969,15 @@
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [rafaelspinto/workshop-tdd-java](https://github.com/rafaelspinto/workshop-tdd-java) - This workshop is designed to help you start or improve your TDD skills.
+
+## microservices 
+
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
+- [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 
 ## microsoft 
 
