@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage) - A tool for burning visible pictures on a compact disc surfase
@@ -283,6 +284,7 @@
 
 ## HTML 
 
+- [wh0am1-dev/pico8-api](https://github.com/wh0am1-dev/pico8-api) - Unofficial PICO-8 API with a lovely design ! ::
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks) - 📍 A map of my life, where each week I've been alive is a little box.
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
@@ -393,6 +395,7 @@
 
 ## JavaScript 
 
+- [samhocevar/tiled-pico8](https://github.com/samhocevar/tiled-pico8) - Tiled map editor plugin to load/save PICO-8 cartridges
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -539,6 +542,11 @@
 
 ## Lua 
 
+- [JoebRogers/PICO-EC](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
+- [outkine/pico-kit](https://github.com/outkine/pico-kit) - :triangular_ruler: An opinionated set of Pico-8 helpers
+- [JoebRogers/PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
+- [thisismypassport/shrinko8](https://github.com/thisismypassport/shrinko8) - Shrink (minify) Pico-8 (& Picotron) carts, as well as other tools (e.g. linting, format conversion, exports)
+- [EXOK/Celeste2](https://github.com/EXOK/Celeste2) - Celeste Classic 2 for PICO-8!
 - [securas/EdgeNormals](https://github.com/securas/EdgeNormals) - An aseprite script to compute fake normal maps at the edges of sprites.
 
 ## MDX 
@@ -584,6 +592,12 @@
 
 ## Others 
 
+- [skyforce77/awesome-pico8-clones](https://github.com/skyforce77/awesome-pico8-clones) - A curated list of Pico-8 clones
+- [nateProjects/Pico-8-Cookbook](https://github.com/nateProjects/Pico-8-Cookbook) - Pico-8 Code Recipes
+- [pixelbath/pico8demakes](https://github.com/pixelbath/pico8demakes) - A curated collection of games from other systems ported to the PICO-8 platform
+- [seleb/PICO-8-Token-Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations) - A list of general purpose tricks and techniques for saving tokens in PICO-8.
+- [drerx/PICO-8_free](https://github.com/drerx/PICO-8_free) - 
+- [misato/pico8-game-template](https://github.com/misato/pico8-game-template) - A PICO-8 game template
 - [pico-8/awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8) - A curated list of awesome PICO-8 resources, carts, tools and more
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -708,6 +722,7 @@
 
 ## Python 
 
+- [dansanderson/picotool](https://github.com/dansanderson/picotool) - Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
@@ -934,6 +949,8 @@
 
 ## TypeScript 
 
+- [japhib/pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 Language Server
+- [grumpydev/pico8vscodeeditor](https://github.com/grumpydev/pico8vscodeeditor) - A plugin for VSCode for Pico8 development, with basic Lua language and Pico8 API support.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
