@@ -2225,6 +2225,10 @@
 
 ## others 
 
+- [GPIforGit/jaP8e](https://github.com/GPIforGit/jaP8e) - editor for pico-8
+- [iiviigames/Asepritely](https://github.com/iiviigames/Asepritely) - Helpful Aseprite Scripts
+- [shanecelis/nano-9](https://github.com/shanecelis/nano-9) - A Pico-8 compatibility layer for Bevy
+- [GPIforGit/GFXedit](https://github.com/GPIforGit/GFXedit) - Sprite, Map, Label editor for Pico 8
 - [skyforce77/awesome-pico8-clones](https://github.com/skyforce77/awesome-pico8-clones) - A curated list of Pico-8 clones
 - [samhocevar/tiled-pico8](https://github.com/samhocevar/tiled-pico8) - Tiled map editor plugin to load/save PICO-8 cartridges
 - [outkine/pico-kit](https://github.com/outkine/pico-kit) - :triangular_ruler: An opinionated set of Pico-8 helpers
