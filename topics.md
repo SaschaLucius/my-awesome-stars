@@ -300,7 +300,7 @@
 
 ## ai-agents 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
@@ -2518,7 +2518,6 @@
 - [watabou/TownGeneratorOS](https://github.com/watabou/TownGeneratorOS) - The source code of the Medieval Fantasy City Generator
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [skoczen/mindful-browsing](https://github.com/skoczen/mindful-browsing) - A chrome extension to beautifully interrupt mindless browsing and get you back to life.
-- [exislow/kleinanzeigen-magic](https://github.com/exislow/kleinanzeigen-magic) - [DO NOT USE] [Or you will get blocked! This app need re-factoring.] Speed up your eBay Kleinanzeigen workflows -- for free!
 - [haampie/curlsh.com](https://github.com/haampie/curlsh.com) - 
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [vendasta/setup-new-computer-script](https://github.com/vendasta/setup-new-computer-script) - This script will help with the quick setup and installation of tools and applications for new developers at Vendasta.
