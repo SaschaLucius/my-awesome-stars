@@ -2243,7 +2243,7 @@
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [boryssey/picture-in-picture-anything](https://github.com/boryssey/picture-in-picture-anything) - 
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
-- [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
+- [leochlon/pythea](https://github.com/leochlon/pythea) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [darcyegb/ClaudeCodeAgents](https://github.com/darcyegb/ClaudeCodeAgents) - A set of useful QA agents for Claude Code.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
