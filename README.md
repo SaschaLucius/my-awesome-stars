@@ -76,7 +76,7 @@
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2024: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2025: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [museapphq/infinitecanvas.tools](https://github.com/museapphq/infinitecanvas.tools) - Website describing the infinite canvas category of app
 
 ## C 
@@ -397,6 +397,7 @@
 
 ## JavaScript 
 
+- [badraxas/PlexDL](https://github.com/badraxas/PlexDL) - 
 - [samhocevar/tiled-pico8](https://github.com/samhocevar/tiled-pico8) - Tiled map editor plugin to load/save PICO-8 cartridges
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
