@@ -81,6 +81,8 @@
 
 ## C 
 
+- [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for the Miyoo Mini (and Plus), Miyoo A30, Anbernic RG35XX original, GameConsole R36S, GameConsole R36SPlus (4" 1:1), GameConsole R40XX Pro Max (4" 4:3
+- [LoveRetro/NextUI](https://github.com/LoveRetro/NextUI) - NextUI (formerly MinUI Next), a custom OS based of MinUI with screen sync fixes and many many more features!
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
@@ -872,6 +874,7 @@
 
 ## Shell 
 
+- [josegonzalez/minui-pico-8-pak](https://github.com/josegonzalez/minui-pico-8-pak) - A pak wrapping PICO-8, a fantasy video game console
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
