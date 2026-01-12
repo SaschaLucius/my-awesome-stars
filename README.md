@@ -291,6 +291,7 @@
 - [wh0am1-dev/pico8-api](https://github.com/wh0am1-dev/pico8-api) - Unofficial PICO-8 API with a lovely design ! ::
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks) - 📍 A map of my life, where each week I've been alive is a little box.
+- [ScrumGuides/ScrumGuide-ExpansionPack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack) - The Scrum Guide Expansion Pack clarifies Scrum’s core principles, helping teams navigate rapid change, AI integration, and product-focused outcomes.
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [muhammadrahim124/Simple-Waves](https://github.com/muhammadrahim124/Simple-Waves) - simple waves effect using HTML and CSS
 - [pwhite2/super-tab-sorter](https://github.com/pwhite2/super-tab-sorter) - Simple Tab Sorter++
@@ -725,7 +726,6 @@
 
 ## PowerShell 
 
-- [ScrumGuides/ScrumGuide-ExpansionPack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack) - The Scrum Guide Expansion Pack clarifies Scrum’s core principles, helping teams navigate rapid change, AI integration, and product-focused outcomes.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## PureBasic 
@@ -1041,7 +1041,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
