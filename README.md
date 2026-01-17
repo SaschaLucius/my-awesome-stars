@@ -16,6 +16,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -201,6 +202,10 @@
 ## Elixir 
 
 - [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - 👋 The ultimate tool to interact with your audience
+
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## GDScript 
 
@@ -416,7 +421,6 @@
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [maciejsmolinski/learnings](https://github.com/maciejsmolinski/learnings) - 👝 A curated list of resources for learning product & software development
 - [tweag/montecarlo](https://github.com/tweag/montecarlo) - :racing_car: Generate montecarlo distributions in Google Sheets
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
@@ -652,7 +656,7 @@
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [FocusedObjective/FocusedObjective.Resources](https://github.com/FocusedObjective/FocusedObjective.Resources) - Various
 - [ChristopherA/Participatory-Organizations-Overview-and-Taxonomy](https://github.com/ChristopherA/Participatory-Organizations-Overview-and-Taxonomy) - This document shares my opinionated explorations so far into discovering patterns in a participatory organization practices, starting mostly with a taxonomy and inventory of existing practices.
