@@ -2260,7 +2260,7 @@
 
 ## others 
 
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
+- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal
 - [lawrencegripper/actions-term-on-fail](https://github.com/lawrencegripper/actions-term-on-fail) - 
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
