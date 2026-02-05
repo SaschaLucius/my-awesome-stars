@@ -2273,7 +2273,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [makalin/CornerFix](https://github.com/makalin/CornerFix) - CornerFix is a lightweight macOS menu bar app that restores sharp display edges by overlaying customizable “caps” on the screen corners. Safe, SIP-friendly, and easy to use, it lets you toggle, resize
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
-- [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for the Miyoo Mini (Flip and Plus), Miyoo A30, Anbernic RG35XX original, GameConsole R36S, GameConsole R36SPlus (4" 1:1), GameConsole R40XX Pro Max (4
+- [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for several cheap handheld retro consoles
 - [LoveRetro/NextUI](https://github.com/LoveRetro/NextUI) - NextUI (formerly MinUI Next), a custom OS based of MinUI with screen sync fixes and many many more features!
 - [badraxas/PlexDL](https://github.com/badraxas/PlexDL) - 
 - [GPIforGit/jaP8e](https://github.com/GPIforGit/jaP8e) - editor for pico-8
