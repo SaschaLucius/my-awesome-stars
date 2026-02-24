@@ -946,6 +946,7 @@
 
 ## Swift 
 
+- [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [makalin/CornerFix](https://github.com/makalin/CornerFix) - CornerFix is a lightweight macOS menu bar app that restores sharp display edges by overlaying customizable “caps” on the screen corners. Safe, SIP-friendly, and easy to use, it lets you toggle, resize
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -1070,7 +1071,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [Pierstoval/handpan-svelte](https://github.com/Pierstoval/handpan-svelte) - 
 - [Pierstoval/handpan](https://github.com/Pierstoval/handpan) - 
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
