@@ -400,6 +400,7 @@
 
 ## JavaScript 
 
+- [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [badraxas/PlexDL](https://github.com/badraxas/PlexDL) - 
