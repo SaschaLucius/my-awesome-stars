@@ -513,7 +513,7 @@
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [fengtan/gmail-to-rss](https://github.com/fengtan/gmail-to-rss) - Turn a Gmail inbox into an RSS feed
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
