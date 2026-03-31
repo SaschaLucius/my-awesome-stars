@@ -1966,6 +1966,7 @@
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [killop/anything_about_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
 
 ## login 
 
@@ -2014,6 +2015,7 @@
 
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
+- [makalin/CornerFix](https://github.com/makalin/CornerFix) - CornerFix — Injected macOS window sharpener: libcornerfix.dylib + cornerfixctl reshape standard titled windows (corner radius 0–24). Live enable/reload via Darwin notify, per-bundle plist overrides, p
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
@@ -2331,7 +2333,6 @@
 - [lawrencegripper/actions-term-on-fail](https://github.com/lawrencegripper/actions-term-on-fail) - 
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [makalin/CornerFix](https://github.com/makalin/CornerFix) - CornerFix is a lightweight macOS menu bar app that restores sharp display edges by overlaying customizable “caps” on the screen corners. Safe, SIP-friendly, and easy to use, it lets you toggle, resize
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for several cheap handheld retro consoles
 - [LoveRetro/NextUI](https://github.com/LoveRetro/NextUI) - NextUI is a custom OS based of MinUI with many additional features!
