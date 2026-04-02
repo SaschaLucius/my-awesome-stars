@@ -607,6 +607,7 @@
 
 ## Others 
 
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [ExxistanceDC/Segagaga-English-Translation](https://github.com/ExxistanceDC/Segagaga-English-Translation) - An English translation patch for the Japanese-exclusive Sega Dreamcast RPG, Segagaga
 - [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
 - [skyforce77/awesome-pico8-clones](https://github.com/skyforce77/awesome-pico8-clones) - A curated list of Pico-8 clones
