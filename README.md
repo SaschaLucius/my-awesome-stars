@@ -982,6 +982,7 @@
 
 ## TypeScript 
 
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [rikwolfe/braintoss-rebuild](https://github.com/rikwolfe/braintoss-rebuild) - A complete rebuild of the Braintoss application with modern architecture and improved user experience
@@ -1072,7 +1073,7 @@
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
