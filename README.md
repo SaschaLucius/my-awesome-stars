@@ -80,7 +80,7 @@
 
 ## C 
 
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for several cheap handheld retro consoles
 - [LoveRetro/NextUI](https://github.com/LoveRetro/NextUI) - NextUI is a custom OS based of MinUI with many additional features!
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
@@ -1033,7 +1033,7 @@
 - [ykhli/AI-tamago](https://github.com/ykhli/AI-tamago) - A local-ready LLM-generated and LLM-driven virtual pet with thoughts and feelings. 100% Javascript.
 - [jsventures/instldraw](https://github.com/jsventures/instldraw) - Team-oriented tldraw built w/ InstantDB
 - [wobsoriano/svelte-instantdb](https://github.com/wobsoriano/svelte-instantdb) - Unofficial Instant SDK for Svelte
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [josdejong/svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) - A web-based tool to view, edit, format, repair, query, transform, and validate JSON
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
