@@ -664,7 +664,6 @@
 - [af/hyperpaper-planner](https://github.com/af/hyperpaper-planner) - Dayplanner pdf for large e-readers (eg Remarkable 2, Supernote, Kindle Scribe, Boox)
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
@@ -956,7 +955,6 @@
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [leveluptuts/bookit](https://github.com/leveluptuts/bookit) - A UI component explorere desiged specifically for Svelte Kit, not spooky 👻
 - [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - A browser extension to inspect Svelte application by extending your browser devtools capabilities
-- [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [wd-David/svelte-component-test-recipes](https://github.com/wd-David/svelte-component-test-recipes) - Svelte component test recipes using Vitest & Testing Library with TypeScript
 - [ensko/svelte-blockly](https://github.com/ensko/svelte-blockly) - Blockly Wrapper for Svelte
 - [cloudflare/workerskv.gui](https://github.com/cloudflare/workerskv.gui) - (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data
@@ -1180,6 +1178,7 @@
 - [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [svelteness/kit-docs](https://github.com/svelteness/kit-docs) - Documentation integration for SvelteKit.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
