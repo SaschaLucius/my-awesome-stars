@@ -1534,6 +1534,7 @@
 
 ## hacktoberfest 
 
+- [collective/collective.easyform](https://github.com/collective/collective.easyform) - Forms for Plone
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [arc42/arc42-template](https://github.com/arc42/arc42-template) - arc42 - the template for software architecture documentation and communication
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
