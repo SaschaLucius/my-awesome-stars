@@ -532,6 +532,7 @@
 
 ## Jupyter Notebook 
 
+- [pavelkomarov/exportify](https://github.com/pavelkomarov/exportify) - Export Spotify playlists using the Web API. Analyze them in the Jupyter notebook.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 
 ## Kotlin 
@@ -927,7 +928,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [SixArm/unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics) - Unix shell script tactics - best practices style guide
 - [vendasta/setup-new-computer-script](https://github.com/vendasta/setup-new-computer-script) - This script will help with the quick setup and installation of tools and applications for new developers at Vendasta.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [wikey/bookscan](https://github.com/wikey/bookscan) - Documentation and scripts for book scanning using free software tools
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 
