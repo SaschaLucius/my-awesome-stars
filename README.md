@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [KDE/digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -1058,7 +1059,7 @@
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
-- [bradcush/mark-tab-manager](https://github.com/bradcush/mark-tab-manager) - Mark is a minimalist tab manager in the form of a browser extension that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically.
+- [bradcush/mark-tab-manager](https://github.com/bradcush/mark-tab-manager) - Mark is a minimalist tab manager (a Chrome extension) that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically. Supported in Chromium browsers.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [vite-pwa/sveltekit](https://github.com/vite-pwa/sveltekit) - Zero-config PWA Plugin for SvelteKit
