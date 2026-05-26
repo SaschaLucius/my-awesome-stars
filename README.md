@@ -79,6 +79,7 @@
 
 ## C 
 
+- [waveshareteam/ESP32-S3-ePaper-1.54](https://github.com/waveshareteam/ESP32-S3-ePaper-1.54) - This is a code repository for the Waveshare ESP32-S3-ePaper-1.54 product.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for several cheap handheld retro consoles
 - [LoveRetro/NextUI](https://github.com/LoveRetro/NextUI) - NextUI is a custom OS based of MinUI with many additional features!
