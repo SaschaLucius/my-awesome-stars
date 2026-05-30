@@ -755,6 +755,7 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
@@ -866,6 +867,7 @@
 
 ## Rust 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
