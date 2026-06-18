@@ -390,7 +390,7 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
-- [nethical6/curbox](https://github.com/nethical6/curbox) - Open Source App & Website Blocker for android
+- [nethical6/curbox](https://github.com/nethical6/curbox) - Free Open Source App & Website Blocker for android
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
 - [SufficientlySecure/birthday-calendar](https://github.com/SufficientlySecure/birthday-calendar) - Display all contact birthdays automatically in your standard Android calendar.
@@ -420,7 +420,6 @@
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
-- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 
 ## ansible 
 
@@ -683,7 +682,7 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -693,7 +692,7 @@
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1447,7 +1446,7 @@
 ## github 
 
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
-- [nethical6/curbox](https://github.com/nethical6/curbox) - Open Source App & Website Blocker for android
+- [nethical6/curbox](https://github.com/nethical6/curbox) - Free Open Source App & Website Blocker for android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -2330,7 +2329,6 @@
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 
 ## nodejs 
@@ -2407,6 +2405,7 @@
 
 ## open-source 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -2786,6 +2785,7 @@
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 - [ensko/svelte-blockly](https://github.com/ensko/svelte-blockly) - Blockly Wrapper for Svelte
+- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [fengtan/gmail-to-rss](https://github.com/fengtan/gmail-to-rss) - Turn a Gmail inbox into an RSS feed
 - [toperkin/staticFormEmails](https://github.com/toperkin/staticFormEmails) - how to put forms which send emails onto static sites
@@ -3116,7 +3116,6 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [vaadin/hilla](https://github.com/vaadin/hilla) - Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -3425,7 +3424,6 @@
 - [leveluptuts/bookit](https://github.com/leveluptuts/bookit) - A UI component explorere desiged specifically for Svelte Kit, not spooky 👻
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
-- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [one-aalam/awesome-svelte-kit](https://github.com/one-aalam/awesome-svelte-kit) - Curated resources on building sites with SvelteKit - A server-less-first answer to "the Next.js experience" by the Svelte community
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
@@ -3709,7 +3707,6 @@
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 
 ## vuejs 
@@ -3759,7 +3756,6 @@
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
-- [RaspberryPiFoundation/blockly-samples](https://github.com/RaspberryPiFoundation/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 
 ## website 
 
