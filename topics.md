@@ -678,6 +678,7 @@
 
 ## c 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -1217,6 +1218,7 @@
 
 ## embedded 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -1604,6 +1606,7 @@
 
 ## gui 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 
 ## hack 
@@ -2478,6 +2481,7 @@
 
 ## others 
 
+- [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly
 - [OpenMoonRay/openmoonray](https://github.com/OpenMoonRay/openmoonray) - MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.
 - [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics) - Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch
