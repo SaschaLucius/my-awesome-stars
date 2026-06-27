@@ -1048,6 +1048,7 @@
 
 ## TypeScript 
 
+- [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) - 
 - [BigJk/snd](https://github.com/BigJk/snd) - Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
