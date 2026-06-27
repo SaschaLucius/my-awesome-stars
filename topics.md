@@ -2494,6 +2494,7 @@
 
 ## others 
 
+- [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) - 
 - [DataDog/datadog-sync-cli](https://github.com/DataDog/datadog-sync-cli) - Datadog cli tool to sync resources across organizations.
 - [VolosR/waveshareEinkMonitor](https://github.com/VolosR/waveshareEinkMonitor) - 
 - [rdmcnabb/MeshTerm](https://github.com/rdmcnabb/MeshTerm) - Best-in-class Meshtastic UI terminal for the Waveshare ESP32-S3 ePaper 1.54" board. Voice commands, e-paper display, games. 9 all-in.
