@@ -82,6 +82,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Forrest404/forrest-notes](https://github.com/Forrest404/forrest-notes) - AI-powered voice-note device firmware (ESP32-S3): record, transcribe with Whisper, clean up notes with GPT, and auto-sync Markdown to GitHub/Obsidian. An AI upgrade of the Pala Note hardware.
 - [VolosR/waveshareEinkMonitor](https://github.com/VolosR/waveshareEinkMonitor) - 
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
@@ -224,6 +225,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
@@ -418,6 +420,7 @@
 
 ## JavaScript 
 
+- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -905,7 +908,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
@@ -1087,7 +1090,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [lawrencegripper/actions-term-on-fail](https://github.com/lawrencegripper/actions-term-on-fail) - 
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [japhib/pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 Language Server
 - [grumpydev/pico8vscodeeditor](https://github.com/grumpydev/pico8vscodeeditor) - A plugin for VSCode for Pico8 development, with basic Lua language and Pico8 API support.
