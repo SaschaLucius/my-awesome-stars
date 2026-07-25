@@ -85,7 +85,7 @@
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Forrest404/forrest-notes](https://github.com/Forrest404/forrest-notes) - AI-powered voice-note device firmware (ESP32-S3): record, transcribe with Whisper, clean up notes with GPT, and auto-sync Markdown to GitHub/Obsidian. An AI upgrade of the Pala Note hardware.
 - [VolosR/waveshareEinkMonitor](https://github.com/VolosR/waveshareEinkMonitor) - 
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly
 - [waveshareteam/ESP32-S3-ePaper-1.54](https://github.com/waveshareteam/ESP32-S3-ePaper-1.54) - This is a code repository for the Waveshare ESP32-S3-ePaper-1.54 product.
 - [Turro75/MyMinUI](https://github.com/Turro75/MyMinUI) - A Fork of a custom launcher and libretro frontend for several cheap handheld retro consoles
@@ -897,6 +897,7 @@
 
 ## Rust 
 
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [inkandswitch/backstitch](https://github.com/inkandswitch/backstitch) - Backstitch: Real-Time Version Control for Godot
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
