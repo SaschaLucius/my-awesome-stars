@@ -431,6 +431,7 @@
 - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) - 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [badraxas/PlexDL](https://github.com/badraxas/PlexDL) - 
 - [samhocevar/tiled-pico8](https://github.com/samhocevar/tiled-pico8) - Tiled map editor plugin to load/save PICO-8 cartridges
@@ -1004,6 +1005,7 @@
 
 ## Svelte 
 
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [josh-collinsworth/sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter) - A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
@@ -1025,7 +1027,6 @@
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
 - [leveluptuts/bookit](https://github.com/leveluptuts/bookit) - A UI component explorere desiged specifically for Svelte Kit, not spooky 👻
 - [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - A browser extension to inspect Svelte application by extending your browser devtools capabilities
-- [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [wd-David/svelte-component-test-recipes](https://github.com/wd-David/svelte-component-test-recipes) - Svelte component test recipes using Vitest & Testing Library with TypeScript
 - [ensko/svelte-blockly](https://github.com/ensko/svelte-blockly) - Blockly Wrapper for Svelte
 - [cloudflare/workerskv.gui](https://github.com/cloudflare/workerskv.gui) - (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data
@@ -1084,7 +1085,6 @@
 - [rikwolfe/braintoss-rebuild](https://github.com/rikwolfe/braintoss-rebuild) - A complete rebuild of the Braintoss application with modern architecture and improved user experience
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1255,6 +1255,7 @@
 - [codediodeio/sveltefire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [svelteness/kit-docs](https://github.com/svelteness/kit-docs) - Documentation integration for SvelteKit.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
