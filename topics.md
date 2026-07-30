@@ -846,7 +846,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1737,6 +1737,7 @@
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
@@ -1986,7 +1987,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
@@ -2448,7 +2449,7 @@
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - Modern Jira REST API client for JavaScript & TypeScript — Jira Cloud API v2/v3, Agile & Service Desk. Type-safe, tree-shakable, works in Node.js and browsers (ESM/CJS).
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -2563,7 +2564,7 @@
 
 ## others 
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [awalol/DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
