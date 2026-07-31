@@ -528,7 +528,6 @@
 - [imightbeamy/gcal-multical-event-merge](https://github.com/imightbeamy/gcal-multical-event-merge) - Browser extension that visually merges the same event on multiple Google Calendars into one event.
 - [bijection/g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
 - [nerds-odd-e/scrumprimer](https://github.com/nerds-odd-e/scrumprimer) - Scrum Primer site and document
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
