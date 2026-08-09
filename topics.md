@@ -2626,7 +2626,7 @@
 - [misato/pico8-game-template](https://github.com/misato/pico8-game-template) - A PICO-8 game template
 - [japhib/pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 Language Server
 - [grumpydev/pico8vscodeeditor](https://github.com/grumpydev/pico8vscodeeditor) - A plugin for VSCode for Pico8 development, with basic Lua language and Pico8 API support.
-- [ToadsworthLP/Tortellini](https://github.com/ToadsworthLP/Tortellini) - An experimental framework for creating jump'n'runs in Godot - think Mario Maker, but on steroids
+- [Toastworth/Tortellini](https://github.com/Toastworth/Tortellini) - An experimental framework for creating jump'n'runs in Godot - think Mario Maker, but on steroids
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [serhack/pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
