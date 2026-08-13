@@ -81,6 +81,7 @@
 
 ## C 
 
+- [libsm64/libsm64](https://github.com/libsm64/libsm64) - Mario 64 as a library for use in external game engines
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [Forrest404/forrest-notes](https://github.com/Forrest404/forrest-notes) - AI-powered voice-note device firmware (ESP32-S3): record, transcribe with Whisper, clean up notes with GPT, and auto-sync Markdown to GitHub/Obsidian. An AI upgrade of the Pala Note hardware.
 - [VolosR/waveshareEinkMonitor](https://github.com/VolosR/waveshareEinkMonitor) - 
@@ -423,6 +424,7 @@
 
 ## JavaScript 
 
+- [mokshablr/gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -776,6 +778,8 @@
 
 ## Python 
 
+- [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker) - Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - [agent-kits/agentaz](https://github.com/agent-kits/agentaz) - AgentAz™ — an open, design-time governance specification for AI agents, with 60 reference blueprints. Documents each agent's Trust Level, worst-case action, and boundaries.
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [DataDog/datadog-sync-cli](https://github.com/DataDog/datadog-sync-cli) - Datadog cli tool to sync resources across organizations.
@@ -893,6 +897,7 @@
 
 ## Rust 
 
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [inkandswitch/backstitch](https://github.com/inkandswitch/backstitch) - Backstitch: Real-Time Version Control for Godot
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -965,6 +970,7 @@
 
 ## Shell 
 
+- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -1057,6 +1063,7 @@
 
 ## TypeScript 
 
+- [bholmesdev/hubble.md](https://github.com/bholmesdev/hubble.md) - The best notepad for you and your agents
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
 - [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) - 
 - [BigJk/snd](https://github.com/BigJk/snd) - Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility
@@ -1065,7 +1072,7 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [MrRefactoring/trello.js](https://github.com/MrRefactoring/trello.js) - Type-safe Trello REST API client for TypeScript & JavaScript. ESM-only, tree-shakable, runtime-validated by Zod 4. Full coverage of boards, cards, lists, checklists, members, webhooks, organizations. 
@@ -1194,7 +1201,7 @@
 - [PlasmoHQ/bpp](https://github.com/PlasmoHQ/bpp) - 🚀 Browser Platform Publisher
 - [spen/Handpan](https://github.com/spen/Handpan) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
