@@ -146,6 +146,7 @@
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage) - A tool for burning visible pictures on a compact disc surfase
 - [bumptop/BumpTop](https://github.com/bumptop/BumpTop) - 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [DDAAXX/XCI-Cutter-Qt](https://github.com/DDAAXX/XCI-Cutter-Qt) - XCI-Cutter Qt 5.9.4 project multiplatform.
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 - [Alcaro/Flips](https://github.com/Alcaro/Flips) - Floating IPS is a patcher for IPS and BPS files.
@@ -439,6 +440,7 @@
 - [badraxas/PlexDL](https://github.com/badraxas/PlexDL) - 
 - [samhocevar/tiled-pico8](https://github.com/samhocevar/tiled-pico8) - Tiled map editor plugin to load/save PICO-8 cartridges
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
@@ -451,7 +453,6 @@
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [maciejsmolinski/learnings](https://github.com/maciejsmolinski/learnings) - 👝 A curated list of resources for learning product & software development
 - [tweag/montecarlo](https://github.com/tweag/montecarlo) - :racing_car: Generate montecarlo distributions in Google Sheets
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - CURRENTLY ARCHIVED BECAUSE OUR DATA SOURCE IS NO LONGER AVAILABLE. CHECK https://github.com/ton-An/station_reach FOR AN ALTERNATIVE | All direct long-distance railway connections for cities in and bey
@@ -807,7 +808,6 @@
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
