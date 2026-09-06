@@ -459,6 +459,7 @@
 - [sindresorhus/merge-windows](https://github.com/sindresorhus/merge-windows) - Chrome extension - Merge windows into the active one
 - [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [dualshock-tools/dualshock-tools.github.io](https://github.com/dualshock-tools/dualshock-tools.github.io) - 
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
@@ -680,7 +681,6 @@
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions
 - [thestr4ng3r/chiaki](https://github.com/thestr4ng3r/chiaki) - Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client
 - [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -746,7 +746,7 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -910,7 +910,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
