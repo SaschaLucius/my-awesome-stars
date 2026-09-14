@@ -505,6 +505,7 @@
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [felixmariotto/Edelweiss](https://github.com/felixmariotto/Edelweiss) - Platformer game
 - [sveltejs/component-template](https://github.com/sveltejs/component-template) - A base for building shareable Svelte components
+- [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -696,7 +697,6 @@
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [dezem/SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
 - [Rich-Harris/svelte-gl](https://github.com/Rich-Harris/svelte-gl) - Just an idea. For now.
-- [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
 - [FeralAI/awesome-switch-homebrew](https://github.com/FeralAI/awesome-switch-homebrew) - A curated collection of awesome things related to Nintendo Switch hacking and homebrew.
 - [AtlasNX/Kosmos](https://github.com/AtlasNX/Kosmos) - [ARCHIVED since MAY 2020] All-in-One CFW Package for the Nintendo Switch
 - [af/hyperpaper-planner](https://github.com/af/hyperpaper-planner) - Dayplanner pdf for large e-readers (eg Remarkable 2, Supernote, Kindle Scribe, Boox)
@@ -810,7 +810,7 @@
 - [leochlon/hallbayes](https://github.com/leochlon/hallbayes) - 
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -1237,7 +1237,6 @@
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor) - This tool extracts the highlights and the annotations from OnyxBoox Reading Notes txt files, and converts them to linked zettelkasten literature and permanent notes
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source TypeScript library for generating SVG charts to display planets in astrology.
