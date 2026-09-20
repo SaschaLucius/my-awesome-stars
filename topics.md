@@ -285,6 +285,7 @@
 - [windows](#windows)
 - [workflow](#workflow)
 - [xcode](#xcode)
+- [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
@@ -720,6 +721,7 @@
 
 ## c 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -954,6 +956,7 @@
 
 ## cpp 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -1293,6 +1296,7 @@
 
 ## embedded 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -1806,6 +1810,7 @@
 
 ## homebrew 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -2228,6 +2233,7 @@
 
 ## lua 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [JoebRogers/PICO-EC](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
 - [JoebRogers/PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
@@ -2595,6 +2601,7 @@
 
 ## operating-system 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 
@@ -3479,6 +3486,7 @@
 
 ## shell 
 
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -3977,6 +3985,10 @@
 
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+## xml 
+
+- [DC-SWAT/DreamShell](https://github.com/DC-SWAT/DreamShell) - Operating system for the Sega Dreamcast, NAOMI and NAOMI 2
 
 ## youtube 
 
