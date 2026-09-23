@@ -2754,7 +2754,7 @@
 - [TheScarletSword/pokereddeluxe](https://github.com/TheScarletSword/pokereddeluxe) - A Pokemon Red and Blue hack - a "fork" of pokered and pokered-randomizer
 - [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch) - Multi-Format File Patching App for macOS
 - [Sir-Walrus/Flips](https://github.com/Sir-Walrus/Flips) - Floating IPS is a patcher for IPS and BPS files.
-- [AmberELEC/AmberELEC](https://github.com/AmberELEC/AmberELEC) - Handheld firmware optimized for the Anbernic RG351P/M/V/MP, RG552 and other compatible devices.
+- [AmberELEC/AmberELEC](https://github.com/AmberELEC/AmberELEC) - Handheld firmware optimized for the Anbernic RG35, RG351P/M/V/MP, RG552 and other compatible devices.
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
