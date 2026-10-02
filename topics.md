@@ -3907,6 +3907,7 @@
 
 ## vpn 
 
+- [pritunl/pritunl-client](https://github.com/pritunl/pritunl-client) - Pritunl OpenVPN and WireGuard client
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 
 ## vue 
