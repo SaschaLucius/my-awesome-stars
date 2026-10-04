@@ -284,6 +284,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -1748,7 +1749,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [envoy1084/awesome-badges](https://github.com/envoy1084/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
@@ -2806,6 +2806,7 @@
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -3998,6 +3999,11 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+
+## windows-11 
+
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
 
 ## workflow 
 
