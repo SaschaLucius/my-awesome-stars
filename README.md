@@ -183,6 +183,7 @@
 ## CSS 
 
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [sveltinio/components-library](https://github.com/sveltinio/components-library) - Monorepo for Svelte components packages
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
@@ -325,7 +326,6 @@
 - [ScrumGuides/ScrumGuide-ExpansionPack](https://github.com/ScrumGuides/ScrumGuide-ExpansionPack) - The Scrum Guide Expansion Pack clarifies Scrum’s core principles, helping teams navigate rapid change, AI integration, and product-focused outcomes.
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [muhammadrahim124/Simple-Waves](https://github.com/muhammadrahim124/Simple-Waves) - simple waves effect using HTML and CSS
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [pwhite2/super-tab-sorter](https://github.com/pwhite2/super-tab-sorter) - Simple Tab Sorter++
 - [pwhite2/simple-tab-sorter](https://github.com/pwhite2/simple-tab-sorter) - Simple tab sorter that allows user-defined tab group order
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
@@ -1015,7 +1015,6 @@
 ## Svelte 
 
 - [josh-collinsworth/sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter) - A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [ak4zh/sveltekit-saas-starter](https://github.com/ak4zh/sveltekit-saas-starter) - 
@@ -1100,7 +1099,6 @@
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
-- [rikwolfe/braintoss-rebuild](https://github.com/rikwolfe/braintoss-rebuild) - A complete rebuild of the Braintoss application with modern architecture and improved user experience
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
@@ -1169,6 +1167,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [ActionableAgile/jira-to-analytics](https://github.com/ActionableAgile/jira-to-analytics) - This code extracts data from Jira based on a yaml config file, and outputs a properly formatted CSV that can be read by the ActionableAgile Analytics tool.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
