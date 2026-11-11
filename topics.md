@@ -290,6 +290,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [workflow](#workflow)
@@ -832,6 +833,7 @@
 
 ## chrome-extension 
 
+- [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Vimeo Video Downloader: download private, unlisted, password-protected and embedded Vimeo videos as MP4. Browser extension for Chrome, Edge, Brave and Opera.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [michimani/chrome-tab-ex](https://github.com/michimani/chrome-tab-ex) - This is a Chrome extension that sorts and groups tabs.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -2757,7 +2759,6 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [serpapps/vimeo-video-downloader](https://github.com/serpapps/vimeo-video-downloader) - Save Vimeo videos instantly for offline viewing.
 - [lugia19/Claude-Usage-Extension](https://github.com/lugia19/Claude-Usage-Extension) - Claude Usage Tracker
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -4093,6 +4094,10 @@
 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
+
+## whatsapp 
+
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ## windows 
 
